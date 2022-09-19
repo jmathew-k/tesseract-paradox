@@ -14,7 +14,7 @@ const Main = ({ scrollToRef }: MainProps) => (
             <div className={styles.wrap}>
                 <div className={cn("hero", styles.title)}>Get Tesseract</div>
                 <div className={cn("h4M", styles.info)}>
-                    The Real-time & powerful 3D&nbsp;design for web.
+                    Decentralised Infrastructure&nbsp; for Web2 Games.
                 </div>
                 <div className={styles.line}>
                     <button className={cn("button", styles.button)}>

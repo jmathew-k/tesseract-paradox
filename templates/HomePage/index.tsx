@@ -6,7 +6,7 @@ import Generation from "./Generation";
 import Details from "./Details";
 import Integration from "./Integration";
 import Discover from "./Discover";
-import Reviews from "./Reviews";
+// import Reviews from "./Reviews";
 import Design from "./Design";
 import JoinCommunity from "@/components/JoinCommunity";
 
@@ -21,7 +21,7 @@ const HomePage = () => {
             <Details />
             <Integration />
             <Discover />
-            <Reviews />
+            {/* <Reviews /> */}
             <Design />
             <JoinCommunity />
         </Layout>

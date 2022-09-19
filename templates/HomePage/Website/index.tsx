@@ -20,7 +20,7 @@ const Website = ({ scrollToRef }: WebsiteProps) => {
 							Web3&nbsp;Stack for Games
 						</h2>
 						<div className={cn('h5M', styles.info)}>
-							Orchestrate verifiable ownership of virtual assets for your game
+							Integrate verifiable ownership of virtual assets for your game
 							experience
 						</div>
 						<Form
@@ -35,7 +35,7 @@ const Website = ({ scrollToRef }: WebsiteProps) => {
 					</div>
 					<div className={styles.previewMobile}>
 						<Image
-							src='/images/website-pic-mobile.png'
+							src='/images/mintnft-vert.png'
 							width={400}
 							height={1101}
 							alt='Hero'
@@ -43,7 +43,7 @@ const Website = ({ scrollToRef }: WebsiteProps) => {
 					</div>
 					<div className={styles.previewDesktop}>
 						<Image
-							src='/images/website-pic-desktop.png'
+							src='/images/frame1z.png'
 							width={864}
 							height={500}
 							alt='Hero'
@@ -51,7 +51,7 @@ const Website = ({ scrollToRef }: WebsiteProps) => {
 					</div>
 					<div className={styles.preview}>
 						<Image
-							src='/images/website-pic.png'
+							src='/images/mintnft.png'
 							width={720}
 							height={500}
 							alt='Hero'

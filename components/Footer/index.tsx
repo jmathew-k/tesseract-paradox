@@ -29,7 +29,7 @@ const Footer = ({}: FooterProps) => {
                             title
                         />
                         <div className={styles.info}>
-                            The Real-time & powerful 3D design for web.
+                            Decentralised Infrastructure for Web3 Games
                         </div>
                     </div>
                 </div>

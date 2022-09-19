@@ -9,7 +9,7 @@ const Design = ({}: DesignProps) => (
     <div className={styles.design}>
         <div className={cn("container", styles.container)}>
             <div className={cn("h2", styles.title)}>
-                Build Web3 Games without UX compromises
+                Build Web3 Games without compromising UX
             </div>
             <div className={styles.preview}>
                 <Image

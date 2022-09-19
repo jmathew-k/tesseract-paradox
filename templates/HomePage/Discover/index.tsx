@@ -12,11 +12,11 @@ const Discover = ({}: DiscoverProps) => {
     return (
         <div className={cn("section", styles.discover)}>
             <div className={cn("container", styles.container)}>
-                <h2 className={cn("h2", styles.title)}>Discover how it work</h2>
+                <h2 className={cn("h2", styles.title)}>How does it work?</h2>
                 <div className={styles.list}>
                     <Item
                         className={styles.item}
-                        title="Set up your perfect scene."
+                        title="Application Stack for Web3 Games"
                         info="Amet minim mollit non deserunt ullamco est."
                         video="BHACKCNDMW8"
                     >
@@ -24,7 +24,7 @@ const Discover = ({}: DiscoverProps) => {
                     </Item>
                     <Item
                         className={styles.item}
-                        title="Build simple or complex models."
+                        title="ZK Rollup Ethereum Architecture"
                         info="Amet minim mollit non deserunt ullamco est."
                         video="BHACKCNDMW8"
                     >

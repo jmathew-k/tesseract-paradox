@@ -2,7 +2,7 @@ export const reviews = [
     {
         author: "Emine Isik",
         position: "Nursing Assistant",
-        avatar: "/images/avatar-1.png",
+        avatar: "/images/cat3d.png",
         content:
             "“It has been an absolute pleasure dealing with Scan during the lockdown. Our church began to livestream our services, and Scan had a great selection of hardware....”",
     },

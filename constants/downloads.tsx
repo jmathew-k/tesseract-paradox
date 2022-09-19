@@ -31,7 +31,7 @@ export const downloads = [
     },
     {
         title: "Beta version",
-        content: "The Real-time & powerful 3D design for web.",
+        content: "Decentralised infrastructure for Web3 Games",
         buttonText: "Download",
         image: {
             src: "/images/download-pic-4.png",

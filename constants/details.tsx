@@ -1,8 +1,8 @@
 export const details = [
     {
-        title: "Unified Web3 API",
+        title: "Web3 API",
         value: "render-faster",
-        info: "20x",
+        info: "Web3 API",
         content: "Hybrid system for lightning fast finality on Ethereum",
         video: "BHACKCNDMW8",
         image: {
@@ -15,7 +15,7 @@ export const details = [
     {
         title: "NFT Marketplace",
         value: "realistic-materials",
-        info: "Decentralised Marketplace",
+        info: "Integrated Marketplace",
         content: "Intuitive interface for setting up an asset store front",
         video: "BHACKCNDMW8",
         image: {
